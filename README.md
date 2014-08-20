@@ -10,7 +10,7 @@
 ---------
 
  * Скачайте и разместите в корневой директории вашего сайта классы, необходимые для работы нашего кода.
- [WebWapInterfaceChooser](https://github.com/WapStart/plus1_js_web_sdk/blob/master/WebWapInterfaceChooser.class.php) [Plus1BannerAsker](https://github.com/WapStart/plus1_js_web_sdk/blob/master/Plus1BannerAsker.class.php) [WebPlus1BannerAsker](https://github.com/WapStart/plus1_js_web_sdk/blob/master/WebPlus1BannerAsker.class.php)
+ [WebWapInterfaceChooser](https://github.com/WapStart/plus1-web-sdk/blob/master/WebWapInterfaceChooser.class.php) [Plus1BannerAsker](https://github.com/WapStart/plus1-web-sdk/blob/master/Plus1BannerAsker.class.php) [WebPlus1BannerAsker](https://github.com/WapStart/plus1-web-sdk/blob/master/WebPlus1BannerAsker.class.php)
 
  * Разместите в начале каждой из страниц, на которых будет демонстрироваться реклама, код из блока 1. Этот код подключает класс для показа баннеров Plus1 WapStart и пытается установить пользователю cookie. Код должен стоять ДО любого вывода информации пользователю.
 
