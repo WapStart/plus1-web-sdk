@@ -38,6 +38,6 @@
 
 ```php
     // Показ рекламных объявлений сети 'Plus1' Wapstart
-    echo WebPlus1BannerAsker::create() ->setId(3167) ->fetch();
+    echo WebPlus1BannerAsker::create() ->setSite(3167) ->fetch();
 ```
 
